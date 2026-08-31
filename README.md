@@ -21,6 +21,7 @@ An interactive Power BI dashboard analysing UK local authority traffic and vehic
 ## Dashboard Preview
 
 The dashboard provides an interactive view of UK traffic and vehicle trends across local authorities.
+![Dashboard Preview](./Screenshot%20(5).png)
 
 ## Project File
 
